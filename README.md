@@ -1,4 +1,6 @@
 # Ultimate Rust Crash Course
+# This repo is just to keep track of my progress for this Course
+## To have access the course, you can view it via Udemy
 
 This is the companion repository for the [Ultimate Rust Crash Course] published online, presented
 live at O'Reilly virtual events, or in person.  You will get the most out of this training 
