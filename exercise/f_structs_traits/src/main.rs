@@ -65,7 +65,7 @@ trait Bite {
 
 impl Bite for Grapes {
     fn bite(self: &mut Self) {
-        self.amount_left *= 2;
+        self.amount_left -= 1;
     }
 }
 
